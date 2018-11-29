@@ -55,7 +55,7 @@ public class NewJFrame extends javax.swing.JFrame {
 
         btn2.setBackground(new java.awt.Color(255, 204, 51));
         btn2.setFont(new java.awt.Font("Angsana New", 0, 18)); // NOI18N
-        btn2.setText("ค่าไฟของเครื่องใช้ไฟฟ้าอื่นๆ");
+        btn2.setText(" จำนวนการใช้ไฟของเครื่องใช้ไฟฟ้าอื่นๆ");
         btn2.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
                 btn2ActionPerformed(evt);
@@ -65,7 +65,7 @@ public class NewJFrame extends javax.swing.JFrame {
 
         btn3.setBackground(new java.awt.Color(255, 204, 51));
         btn3.setFont(new java.awt.Font("Angsana New", 0, 18)); // NOI18N
-        btn3.setText("ค่าไฟของเครื่องใช้ไฟฟ้าพื้นฐาน");
+        btn3.setText("จำนวนการใช้ไฟของเครื่องใช้ไฟฟ้าพื้นฐาน");
         btn3.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
                 btn3ActionPerformed(evt);
